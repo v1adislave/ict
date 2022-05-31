@@ -69,7 +69,7 @@ SSL/sellside liquidity - ликвидность на стороне продав
 
 ### FVG/fair value gap - ценовой дисбаланс
 
-[<img src="https://i.ibb.co/yQWMNyX/FVG.png">](FVG)
+![FVG](https://user-images.githubusercontent.com/51401106/171211504-c2a26c55-fec4-4a11-9afe-03266ebb248d.png)
 
 Это как доп. аргумент для похода цены в OB
 
