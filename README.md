@@ -28,8 +28,15 @@ LTF/lower time frame - младший ТФ
 POI/point of interest - зона интереса
 
 ### BE/breakeven - безубыток
+### HH / HL
+
+![image](https://user-images.githubusercontent.com/51401106/171619283-70b1d1d8-ab7d-4975-91a8-19e6d6361a3b.png)
 
 OTE/optimal trade entry - оптимальный вход в сделку
+
+### FF
+
+Фулфил, перектытие ( имбаланса )
 
 ### BOS/break of structure - слом рыночной структуры
 
@@ -42,6 +49,10 @@ Liquidity Raid + BOS -> цена скорее всего продолжит дв
 Liq. Raid - разворотное
 
 ### SMS/shift in market structure или MS/market shift - изменение в рыночной структуре
+
+![image](https://user-images.githubusercontent.com/51401106/171619508-69a3b2b4-f3fe-4d83-96d0-1e4608c651e3.png)
+
+Неспособность обновить хай в восходящей структуре и лоу в нисходящей
 
 Supply - зона  предложения
 
